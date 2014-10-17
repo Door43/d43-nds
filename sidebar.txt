@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nds:home|Door43 (nds)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nds|d43-nds repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nds/archive/master.zip|d43-nds.zip]]
+
+**Recent Changes**
+{{changes>ns = nds}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nds|Ethnologue data]]
+
